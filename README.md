@@ -6,6 +6,8 @@
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/dartagnan-von-pingel/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvonpingel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dartagnan-von-pingel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dartagnan-von-pingel?trk=profile-badge">D'Artagnan von Pingel</a></div>
+              
 <!--
 **dvonpingel/dvonpingel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
