@@ -6,7 +6,7 @@
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/dartagnan-von-pingel/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvonpingel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvonpingel)
 
 <!--
 **dvonpingel/dvonpingel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
