@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there, I'm [D'Artagnan von Pingel](https://dartagnan.tech/) 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dvonpingel.dvonpingel)
+
+- 🔭 I’m currently working on [Family Promise](https://a.familypromiseservicetracker.dev/)
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/dartagnan-von-pingel/)
 
 <!--
 **dvonpingel/dvonpingel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
