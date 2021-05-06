@@ -7,11 +7,21 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvonpingel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvonpingel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" /></a>
+<a href="https://github.com/dvonpingel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dvonpingel&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/dvonpingel/github-readme-stats">
+  <!-- Change the `github-readme-stats.dvonpingel1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvonpingel&layout=compact&theme=material-palenight" />
+</a>
 
 <!--
 **dvonpingel/dvonpingel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
