@@ -2,6 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dvonpingel.dvonpingel)
 
+- 👋 I'm a 20 year old web developer from Utah, currently in my final month of studying at Lambda School.
+- 🖥️ I love all things coding, gaming, reading, and music.
+- 💼 Before becoming a developer, I was doing full time video editing and motion design for over 4 1/2 years as a freelance artist. I absolutely love film and Adobe products.
 - 🔭 I’m currently working on [Family Promise](https://a.familypromiseservicetracker.dev/)
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/dartagnan-von-pingel/)
 
