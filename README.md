@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dvonpingel.dvonpingel)
 
 - 👋 I'm a 20 year old web developer from Utah, and a recent graduate from Lambda School's Full Stack Web Development program.
-- 🖥️ I love all things coding, gaming, reading, and music.
+- 🖥️ I love all things coding, gaming, film, fitness, and music.
 - 💼 I currently work for 7 Oaks Group in Utah as a Software Engineer. Before becoming a developer, I was doing full time video editing and motion design for over 4 1/2 years as a freelance artist. I absolutely love film and Adobe products.
 - 🔭 I last worked on [Family Promise](https://main.d2btcjpp4e0k3s.amplifyapp.com/)
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/dartagnan-von-pingel/)
