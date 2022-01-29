@@ -3,7 +3,7 @@
 - 👋 I'm a 21 year old web developer from Utah, and I graduated from Lambda School's Full Stack Web Development program back in May 2021.
 - 🖥️ I love all things coding, gaming, film, fitness, and music.
 - 💼 I currently work for 7 Oaks Group in Utah as a Software Engineer. Before becoming a developer, I was doing full time video editing and motion design for over 4 1/2 years as a freelance artist. I absolutely love film and Adobe products.
-- 🔭 I last worked on [Family Promise](https://main.d2btcjpp4e0k3s.amplifyapp.com/)
+- 🔭 I'm Currently working on Predict @ [Pattern](https://pattern.com/)
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/dartagnan-von-pingel/)
 
 ### Languages // Technologies
@@ -22,13 +22,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<a href="https://github.com/dvonpingel/github-readme-stats">
+<!-- <a href="https://github.com/dvonpingel/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dvonpingel&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/dvonpingel/github-readme-stats">
-  <!-- Change the `github-readme-stats.dvonpingel1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvonpingel&layout=compact&theme=material-palenight" />
-</a>
+</a> -->
 
 <!--
 **dvonpingel/dvonpingel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
