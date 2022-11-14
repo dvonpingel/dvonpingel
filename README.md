@@ -1,4 +1,4 @@
-### Hi there, I'm [D'Artagnan von Pingel](https://dartagnan.tech/) 👋
+### Hi there, I'm D'Artagnan 👋
 
 - 👋 I'm a 21 year old web developer from Utah, and I graduated from BloomTech's Full Stack Web Development program back in May 2021.
 - 🖥️ I love all things coding, gaming, film, fitness, and music.
