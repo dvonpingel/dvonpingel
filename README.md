@@ -1,6 +1,6 @@
 ### Hi there, I'm D'Artagnan 👋
 
-- 👋 I'm a 21 year old web developer from Utah, and I graduated from BloomTech's Full Stack Web Development program back in May 2021.
+- 👋 I'm a web developer from Utah, and I graduated from BloomTech's Full Stack Web Development program back in May 2021.
 - 🖥️ I love all things coding, gaming, film, fitness, and music.
 - 💼 I currently work for Pattern in Lehi, Utah as a Front-End Software Engineer. Before becoming a developer, I was doing full time video editing and motion design for over 4 1/2 years as a freelance artist. I absolutely love film and Adobe products.
 - 🔭 I'm Currently working on **Shelf** @ [Pattern](https://pattern.com/)
