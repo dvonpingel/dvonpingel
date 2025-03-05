@@ -1,8 +1,8 @@
 ### Hi there, I'm D'Artagnan 👋
 
-- 👋 I'm a Senior Software Engineer at Pattern in Lehi, UT, and I graduated from BloomTech's Full Stack Web Development program back in May 2021.
+- 👋 I'm a Senior Software Engineer at Pattern in Lehi, UT, and I'm a BloomTech Full Stack Web Development program Alumni from May 2021.
 - 🖥️ I love all things coding, gaming, film, fitness, and music.
-- 💼 I currently work for Pattern in Lehi, Utah as a Front-End Software Engineer. Before becoming a developer, I was doing full time video editing and motion design for over 4 1/2 years as a freelance artist. I absolutely love film and Adobe products.
+- 💼 Before becoming a developer, I was doing full time video editing and motion design for over 4 1/2 years as a freelance artist.
 - 🔭 I'm Currently working on **Shelf** @ [Pattern](https://pattern.com/)
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/dartagnan-von-pingel/)
 
